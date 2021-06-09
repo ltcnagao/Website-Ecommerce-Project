@@ -28,9 +28,7 @@ class SignIn extends React.Component {
     } catch (error) {
       console.log(error);
     }
-  
   };
-    
 
   handleChange = event => {
     const { value, name } = event.target;
@@ -64,9 +62,9 @@ class SignIn extends React.Component {
           <div className='buttons'>
             <CustomButton type='submit'> Sign in </CustomButton>
             <CustomButton onClick={signInWithGoogle} isGoogleSignIn>
-              Sign in with Google 
+              Sign in with Google
             </CustomButton>
-        </div>
+          </div>
         </form>
       </div>
     );
