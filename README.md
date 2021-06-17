@@ -1,8 +1,11 @@
+# Acess the site using this link
+https://crwn-clothing-e-store.herokuapp.com/
+
 # Install dependencies 
 run yarn or npm install to build all the dependencies in the project.
 
 # Description
- This is a e-commerce application similar to Shopify using React (Hooks, Suspense, Router, GraphQL, Context API, Saga, Stripe and more), Redux, Firebase 
+ This is a e-commerce application similar to Shopify using React (Hooks, Suspense, Router, GraphQL, Context API, Saga, Stripe and more), Redux, Firebase.
 
 # Purpose 
  Build a full stack e-commerce app using the latest version of React 17.
