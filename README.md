@@ -21,4 +21,3 @@ Key concepts utilized in the development of this project include:
 - GraphQL + Apollo
 - Mobile Support
 - Styled-Components with SCSS
-
